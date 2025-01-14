@@ -1,6 +1,6 @@
 # sarahwhite-csc256-repo
 
-# About Me
+# Hello World!
 
 Welcome to my repository! My name is Sarah White. I am 27 years old and currently live in North Carolina. I’m also a software development student and programmer, honing my skills in coding and problem-solving. Whether it’s creating an abstract class in Java or tackling a new coding challenge, I’m passionate about building solutions and pushing myself to learn and grow in my field.
 
